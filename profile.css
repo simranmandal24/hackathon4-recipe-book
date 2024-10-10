@@ -1,0 +1,96 @@
+body{
+    margin: 0%;
+    font-family: sans-serif;
+     
+    
+}
+
+.img{
+  height: 200px;
+  width: 200px; 
+  margin-left: 550px;
+}
+
+.ah{
+    font-size: 5em;
+    color:black;
+    padding-top: 10px;
+    margin-top: 0%;
+    /* background: url(bgimg4.jpg) no-repeat center center/cover;  */
+    height: 100px;
+    text-align: center;
+    
+
+    
+}
+.ah2{
+    color: black;
+    font-size: 1.9em;
+    text-align: center;
+
+}
+/* .parad{
+    width: 600px;
+} */
+
+.para2{
+    font-size: 1.3em;
+    font-style: italic;
+    color: green;
+    text-align: center;
+}
+.para1{
+    font-size: 1.3em;
+    text-align:center;
+    
+   
+}
+.img1{
+    height: 350px;
+    width: 400px;
+    float: left;
+    margin-left: 100;
+    margin: 50px;
+   
+   
+    }
+.para3{
+    float: right;
+    width: 500px;
+    height: 300px;
+    font-size: 1.1em;
+    margin-right: 100px;
+}
+.th{
+    font-size: 1.7em;
+    color: white;
+    background-color: #35424a;
+    text-align: center;
+}
+.para4{  
+    height: 400px;
+    font-size: 1.1em;
+    padding: 0%;   
+}
+.d3{
+     height: 400px;
+}
+.d4{
+    float: left ;
+    width: 500px;
+    margin-left: 100px;
+   
+}
+  
+.img2{
+    float: right;
+    width: 500px;
+    height: 350px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+/* .imgdiv{
+    float: right;
+    margin-top: 0%;
+} */
+
